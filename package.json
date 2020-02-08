@@ -1,0 +1,15 @@
+{
+  "name": "working-copy-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "An almost exact replica of the night theme from the iOS app \"Working Copy\", with some extra flair to added onto it.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/working-copy-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

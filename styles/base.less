@@ -142,7 +142,12 @@ atom-text-editor {
       color: @light-gray;
     }
 
-    &.syntax--string,
+    &.syntax--string {
+      &.syntax--json {
+        color: @cyan;
+      }
+    }
+
     &.syntax--variable,
     &.syntax--parameters,
     &.syntax--array {
